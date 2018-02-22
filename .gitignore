@@ -57,3 +57,4 @@ typings/
 # dotenv environment variables file
 .env
 
+backend/securitytxt-scanner-a8b7b00b1117.json
